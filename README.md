@@ -8,7 +8,7 @@ A curated directory of restaurant POS, online ordering, reservations, kitchen an
 - [Online Ordering & Delivery (3)](#online-ordering--delivery)
 - [Open Source (1)](#open-source)
 - [Reservations & Waitlists (3)](#reservations--waitlists)
-- [Restaurant POS (6)](#restaurant-pos)
+- [Restaurant POS (7)](#restaurant-pos)
 - [Staff Scheduling (3)](#staff-scheduling)
 
 
@@ -37,6 +37,7 @@ A curated directory of restaurant POS, online ordering, reservations, kitchen an
 ## Restaurant POS
 
 - [Clover](https://www.clover.com/) - Modular POS system for restaurants and retail businesses, offered by Fiserv. Supports apps, online ordering, and tableside payment. Paid plans with hardware purchase or lease options. ([Read more](/details/clover.md)) `Paid` `Freemium` `API` `Cloud` `Enterprise`
+- [Lightspeed Restaurant](https://www.lightspeedhq.com/pos/restaurant) - Cloud-based restaurant POS system that enables multi-location management, tableside and QR code ordering, inventory control, payroll and workforce management, and integrated payments via Lightspeed Payments. Pricing varies by subscription tier (Starter, Essential, Premium) and is quote-based depending on location count and operational needs. ([Read more](/details/lightspeed-restaurant.md)) `Cloud Based` `Multi Location` `Embedded Payments`
 - [Revel Systems](https://www.revelsystems.com/) - Cloud-based iPad POS for restaurants, quick-service, and retail. Features inventory tracking, employee management, and third-party integrations. Paid subscription with enterprise options. ([Read more](/details/revel-systems.md)) `Paid` `Enterprise` `API` `Cloud` `iPad`
 - [SpotOn](https://www.spoton.com/) - All-in-one restaurant software platform combining POS, payments, marketing, and workforce management. Targets independent restaurants and multi-location brands. Paid subscription model. ([Read more](/details/spoton.md)) `Paid` `Cloud` `API` `Restaurant POS`
 - [Square for Restaurants](https://squareup.com/restaurants) - Restaurant-specific POS from Square, supporting table management, online ordering, and kitchen display. Offers a free plan for basic processing and paid tiers for advanced features. ([Read more](/details/square-for-restaurants.md)) `Freemium` `Paid` `API` `Cloud` `Free Plan`
