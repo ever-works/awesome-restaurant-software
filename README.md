@@ -6,7 +6,7 @@ A curated directory of restaurant POS, online ordering, reservations, kitchen an
 
 - [Kitchen Display & Inventory (3)](#kitchen-display--inventory)
 - [Online Ordering & Delivery (3)](#online-ordering--delivery)
-- [Open Source (1)](#open-source)
+- [Open Source (5)](#open-source)
 - [Reservations & Waitlists (3)](#reservations--waitlists)
 - [Restaurant POS (7)](#restaurant-pos)
 - [Staff Scheduling (3)](#staff-scheduling)
@@ -26,7 +26,11 @@ A curated directory of restaurant POS, online ordering, reservations, kitchen an
 
 ## Open Source
 
-- [Odoo](https://www.odoo.com/) - Open-source ERP suite with a point-of-sale module for restaurants and retail. Community edition is self-hosted; enterprise cloud edition is also available. Uses AGPL/LGPL licensing. ([Read more](/details/odoo.md)) `Open Source` `Self-Hosted` `Paid` `Enterprise` `API` `ERP`
+- [Modern OSS Order Management System for Pizza Restaurants](https://github.com/modern-oss/pizza-order-management-system) - An open-source order management system built for pizza restaurants. Developed in JavaScript and maintained as a public GitHub repository. Open source and self-hosted. ([Read more](/details/modern-oss-pizza-order-management-system.md)) `Open Source` `Self Hosted` `Pizza` `Online Ordering`
+- [Odoo](https://www.odoo.com/) - Open-source ERP suite with a point-of-sale module for restaurants and retail. Community edition is self-hosted; enterprise cloud edition is also available. Uses AGPL/LGPL licensing. ([Read more](/details/odoo.md)) `Open Source` `Self Hosted` `Paid` `Enterprise` `API` `Erp`
+- [SwiggyUI](https://github.com/swiggyui/swiggyui) - A Flutter user-interface replica of the Swiggy food delivery platform. An open-source repository providing frontend screens for a food delivery app. Open source and self-hosted. ([Read more](/details/swiggyui.md)) `Open Source` `Self Hosted` `Online Ordering` `Flutter`
+- [URY](https://github.com/ury-pos/ury) - URY is a FOSS (free and open-source software) restaurant management system built on top of ERPNext. An open-source TypeScript repository. Open source and self-hosted. ([Read more](/details/ury-restaurant-management-system.md)) `Open Source` `Self Hosted` `Erp` `Restaurant Pos`
+- [URY POS](https://github.com/ury-pos/ury-pos) - URY POS is a web-based order management system for cashiers and captains, supporting dine-in, delivery, and takeout. Part of the URY ERP suite. Open source and self-hosted. ([Read more](/details/ury-pos.md)) `Open Source` `Self Hosted` `Restaurant Pos` `Online Ordering`
 
 ## Reservations & Waitlists
 
@@ -39,10 +43,10 @@ A curated directory of restaurant POS, online ordering, reservations, kitchen an
 - [Clover](https://www.clover.com/) - Modular POS system for restaurants and retail businesses, offered by Fiserv. Supports apps, online ordering, and tableside payment. Paid plans with hardware purchase or lease options. ([Read more](/details/clover.md)) `Paid` `Freemium` `API` `Cloud` `Enterprise`
 - [Lightspeed Restaurant](https://www.lightspeedhq.com/pos/restaurant) - Cloud-based restaurant POS system that enables multi-location management, tableside and QR code ordering, inventory control, payroll and workforce management, and integrated payments via Lightspeed Payments. Pricing varies by subscription tier (Starter, Essential, Premium) and is quote-based depending on location count and operational needs. ([Read more](/details/lightspeed-restaurant.md)) `Cloud Based` `Multi Location` `Embedded Payments`
 - [Revel Systems](https://www.revelsystems.com/) - Cloud-based iPad POS for restaurants, quick-service, and retail. Features inventory tracking, employee management, and third-party integrations. Paid subscription with enterprise options. ([Read more](/details/revel-systems.md)) `Paid` `Enterprise` `API` `Cloud` `iPad`
-- [SpotOn](https://www.spoton.com/) - All-in-one restaurant software platform combining POS, payments, marketing, and workforce management. Targets independent restaurants and multi-location brands. Paid subscription model. ([Read more](/details/spoton.md)) `Paid` `Cloud` `API` `Restaurant POS`
+- [SpotOn](https://www.spoton.com/) - All-in-one restaurant software platform combining POS, payments, marketing, and workforce management. Targets independent restaurants and multi-location brands. Paid subscription model. ([Read more](/details/spoton.md)) `Paid` `Cloud` `API` `Restaurant Pos`
 - [Square for Restaurants](https://squareup.com/restaurants) - Restaurant-specific POS from Square, supporting table management, online ordering, and kitchen display. Offers a free plan for basic processing and paid tiers for advanced features. ([Read more](/details/square-for-restaurants.md)) `Freemium` `Paid` `API` `Cloud` `Free Plan`
-- [Toast](https://toasttab.com/) - Cloud-based restaurant POS platform for foodservice businesses of all sizes. Offers order management, payments, payroll, and guest-facing tools. Paid subscription with hardware and software fees. ([Read more](/details/toast.md)) `Paid` `Enterprise` `API` `Cloud` `Restaurant POS`
-- [TouchBistro](https://www.touchbistro.com/) - iPad-based restaurant POS designed for full-service and quick-service venues. Provides tableside ordering, menu management, and offline mode. Paid license with optional hardware bundles. ([Read more](/details/touchbistro.md)) `Paid` `Cloud` `iPad` `Restaurant POS`
+- [Toast](https://toasttab.com/) - Cloud-based restaurant POS platform for foodservice businesses of all sizes. Offers order management, payments, payroll, and guest-facing tools. Paid subscription with hardware and software fees. ([Read more](/details/toast.md)) `Paid` `Enterprise` `API` `Cloud` `Restaurant Pos`
+- [TouchBistro](https://www.touchbistro.com/) - iPad-based restaurant POS designed for full-service and quick-service venues. Provides tableside ordering, menu management, and offline mode. Paid license with optional hardware bundles. ([Read more](/details/touchbistro.md)) `Paid` `Cloud` `iPad` `Restaurant Pos`
 
 ## Staff Scheduling
 
